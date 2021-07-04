@@ -1,6 +1,6 @@
 # FSSLAM
 
-This repository is the code for paper **2D Laser SLAM with Closed Shape Features: Fourier Series Parameterization and Submap Joining** which is published on RA-L / ICRA 2021.
+This repository is the code for paper [**2D Laser SLAM with Closed Shape Features: Fourier Series Parameterization and Submap Joining**](https://ieeexplore-ieee-org.ezproxy.lib.uts.edu.au/document/9351608?source=authoralert) which is published on RA-L / ICRA 2021.
 
 Author: Jiaheng Zhao, Tiancheng Li, Tong Yang, Liang Zhao, and Shoudong Huang
 
